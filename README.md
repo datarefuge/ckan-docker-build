@@ -1,5 +1,4 @@
 # ckan-docker-build
-A set of Dockerfiles and related documentation for a Data Refuge Docker image.
 
 This repository will hold all Dockerfiles, configuration files, 
 and other (public) information required to build an image for
